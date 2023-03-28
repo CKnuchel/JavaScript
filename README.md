@@ -1,5 +1,8 @@
+# 🧭 Actual Repo:
+In this repo you will find my current work, which I was able to create through the course.
+
 # 💫 About Me:
-🔭 I’m currently working on completing on different Udemy Courses to learn new and awesome stuff<br>
+🔭 I’m currently working on completing different Udemy Courses to learn new and awesome stuff<br>
 📖 Current Course https://www.udemy.com/course/the-complete-javascript-course/ <br>
 🌱 I’m currently learning JavaScript<br>
 💬 Ask me about anything, maybe i can help you 😊
@@ -18,4 +21,4 @@
 [![](https://visitcount.itsvg.in/api?id=CKnuchel&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-In this repo you will find my current work, which I was able to create through the course.
+
