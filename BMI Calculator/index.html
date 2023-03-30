@@ -6,18 +6,19 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>JavaScript Fundamentals</title>
     <link rel="stylesheet" href="css/styles.css" />
+    <link rel="icon" href="img/tab.png" />
 
    </head>
   <body>
-    <h1>JavaScript Fundamentals – Part 1</h1>
-    <h2> BMI Rechner von Christoph Knuchel</h2>
+    <h1>JavaScript Fundamentals</h1>
+    <h2>BMI Rechner von Christoph Knuchel</h2>
 
     <!--Angaben abfragen-->
     <form>
       <label for="groesse" id="groesse">Größe in m:</label> 
       <input type="number" id="height" name="groesse" min="0" max="3" step="0.01" value="1.80" required>
       <label for="gewicht" id="gewicht">Gewicht in kg:</label>
-      <input type="number" id="weight" name="gewicht" min="0" max="300" step="0.1" value="80" required>
+      <input type="number" id="weight" name="gewicht" min="0" max="300" step="0.1" value="80" required> <br>
       <input type="button" value="Berechnen" onclick="calculateBMI()">
     </form>
 
